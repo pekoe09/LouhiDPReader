@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Deal.cs" />
+    <Compile Include="DealPhase.cs" />
+    <Compile Include="DealPhaseTransition.cs" />
+    <Compile Include="DealProcessor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
